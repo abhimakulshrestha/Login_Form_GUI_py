@@ -9,7 +9,7 @@ Login_Form_GUI_py/
 ├── loginform.py              # Main Python GUI code
 └── TheBackStory.png          # App icon and logo
 📸 Preview
-<sub>(Rename your screenshot to Screenshot.png to display it here)</sub>
+<sub>(TheBackStory.png)</sub>
 
 🛠️ Features
 Custom branding with "TheBackStory" theme
